@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Puzzle/Puzzle.unity
+    path: Assets/PuzzleScene/Puzzle.unity
     guid: 0bde7174d8a2c85458915a48ab498886
   - enabled: 1
-    path: Assets/Start/Level.unity
+    path: Assets/LevelScene/Level.unity
     guid: ef9d29f40e790a74cb79eb03e746a2fd
   m_configObjects: {}

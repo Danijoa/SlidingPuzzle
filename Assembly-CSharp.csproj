@@ -60,12 +60,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Puzzle\Block.cs" />
-    <Compile Include="Assets\Puzzle\CallButton.cs" />
-    <Compile Include="Assets\Puzzle\EventBlock.cs" />
-    <Compile Include="Assets\Puzzle\NumArray.cs" />
-    <Compile Include="Assets\Puzzle\SetImage.cs" />
-    <Compile Include="Assets\Start\LoadScene.cs" />
+    <Compile Include="Assets\LevelScene\LoadScene.cs" />
+    <Compile Include="Assets\PuzzleScene\Block.cs" />
+    <Compile Include="Assets\PuzzleScene\CallButton.cs" />
+    <Compile Include="Assets\PuzzleScene\EventBlock.cs" />
+    <Compile Include="Assets\PuzzleScene\NumArray.cs" />
+    <Compile Include="Assets\PuzzleScene\SetImage.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
