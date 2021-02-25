@@ -1,2 +1,2 @@
 # SlidingPuzzle
-![puzzzle](https://user-images.githubusercontent.com/49131724/69912691-36698880-1470-11ea-9690-c064f8eda323.gif)
+![dani_puzzle](https://user-images.githubusercontent.com/49131724/109196223-c797ee00-77de-11eb-963c-583366cd8c1c.gif)
